@@ -1,6 +1,9 @@
 # job-preparation
 Preparation for Job
 
+# My Solutions
+* [Leetcode solution and DS](https://github.com/Jak57/leetcode-solution)
+
 # Resources from Seniors
 * [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed?fbclid=IwAR3ZG04TBnKufWA9g6PMpLOPV4tKLz2_w5KUguQXqgkyFv5mhaJYkI9fp6E)
 * [Coding interview study plan - what to study and practice based on time left](https://www.techinterviewhandbook.org/coding-interview-study-plan/?fbclid=IwAR2Yb41g7lve9Pbatw7J8litcswIsX8UlAGPBUyWc6uTeciY4IacrHdsl7o)
