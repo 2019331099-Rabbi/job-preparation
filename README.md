@@ -3,7 +3,7 @@ Preparation for Job
 
 # Interview
 * [Cracking the coding interview - leetcode discussion](https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode)
-* https://github.com/careercup/CtCI-6th-Edition
+* [solutions from authors](https://github.com/careercup/CtCI-6th-Edition)
 
 # All Company List
 * [BD software companies](https://github.com/MBSTUPC/tech-companies-in-bangladesh)
