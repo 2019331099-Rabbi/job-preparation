@@ -1,6 +1,9 @@
 # job-preparation
 Preparation for Job
 
+# All Company List
+* [BD software companies](https://github.com/MBSTUPC/tech-companies-in-bangladesh)
+
 # My Solutions
 * [Leetcode solution and DS](https://github.com/Jak57/leetcode-solution)
 
