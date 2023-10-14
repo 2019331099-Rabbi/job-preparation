@@ -1,4 +1,5 @@
 /*
+Approach: 01
 Recursive implementation without memoization
 */
 
@@ -22,9 +23,9 @@ int main()
     return 0;
 }
 
-/*********************************************************************************************/
 
 /*
+Approach: 02
 Fibonacci Series Recursive implementation with memoization
 */
 
@@ -68,5 +69,36 @@ int main()
     cout<< fibonacci_number(40) << "\n";
     return 0;
 }
+
+
+/*
+Approach: 03
+Fibonacci Series - bottom-up dp
+*/
+
+#include<bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+
+
+int main()
+{
+    int i, j;
+    ll n, prev1, prev2, cur;
+    cin>> n;
+    prev1 = 0;
+    prev2 = 1;
+    for (i = 2; i <= n; i++) {
+        cur = prev1 + prev2;
+        prev1 = prev2;
+        prev2 = cur;
+    }
+    cout<< cur << "\n";
+
+    return 0;
+}
+
+
 
 
