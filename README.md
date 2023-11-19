@@ -1,6 +1,9 @@
 # job-preparation
 Preparation for Job
 
+# Progress tracker
+* [Google sheet](https://docs.google.com/spreadsheets/d/1Cx83y1s0N8kQtrf_yiSvnuCExcPpSSci1LwxbP22T94/edit#gid=0)
+
 # Interview
 * [Cracking the coding interview - leetcode discussion](https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode)
 * [solutions from authors](https://github.com/careercup/CtCI-6th-Edition)
