@@ -4,6 +4,8 @@ Preparation for Job
 # Interview
 * [Cracking the coding interview - leetcode discussion](https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode)
 * [solutions from authors](https://github.com/careercup/CtCI-6th-Edition)
+* [Neetcode practice - blind 75](https://neetcode.io/practice)
+* [Interview preparation - batch 18 - notion](https://docs.google.com/document/u/1/d/1ARUEoGPIde710iRP9SZx3dutPHy6u1VftuR-R615hhM/mobilebasic?fbclid=IwAR0U2Pr6fGrBNHTmM5LJ8jdLWmiv1ozslIUZNaQpfF1vR1Ud452XgUFT9DY)
 
 # All Company List
 * [BD software companies](https://github.com/MBSTUPC/tech-companies-in-bangladesh)
