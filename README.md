@@ -6,12 +6,12 @@ Preparation for Job
 
 # Interview/Job Preparation
 * [Preparation for Job and Central Viva (Jakir Hasan)](https://docs.google.com/spreadsheets/d/1n-S_y2OEsqrvyHyqMsFcCCJ9Fnyd107eaGHFZt-fOjs/edit#gid=0)
-* [Cracking the coding interview - leetcode discussion](https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode)
-* [solutions from authors](https://github.com/careercup/CtCI-6th-Edition)
 * [Neetcode practice - blind 75](https://neetcode.io/practice)
 * [Interview preparation - batch 18 - notion](https://docs.google.com/document/u/1/d/1ARUEoGPIde710iRP9SZx3dutPHy6u1VftuR-R615hhM/mobilebasic?fbclid=IwAR0U2Pr6fGrBNHTmM5LJ8jdLWmiv1ozslIUZNaQpfF1vR1Ud452XgUFT9DY)
 * [job 2018 - notions](https://erratic-geography-a96.notion.site/f616732c3629411d86186dab7cc092f2?v=855a31245bca488a83a5915b8fc6c454)
-* [job - 2017 - Hamim vai](https://drive.google.com/drive/folders/13aUE1xdHq-ywGfAGhaDTUTjqvWYute7G?fbclid=IwAR14w6cBoRve-i_wTmlHrasvzSHy5WWowFJMyeYX46isoxwDynnUBBU4gNs)
+* [job 2017 - Hamim vai](https://drive.google.com/drive/folders/13aUE1xdHq-ywGfAGhaDTUTjqvWYute7G?fbclid=IwAR14w6cBoRve-i_wTmlHrasvzSHy5WWowFJMyeYX46isoxwDynnUBBU4gNs)
+* [Cracking the coding interview - leetcode discussion](https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode)
+* [solutions from authors](https://github.com/careercup/CtCI-6th-Edition)
 
 # All Company List
 * [BD software companies](https://github.com/MBSTUPC/tech-companies-in-bangladesh)
