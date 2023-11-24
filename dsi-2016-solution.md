@@ -35,4 +35,27 @@ bool myFun(int N) { return (N & (N-1)) == 0;}
   }
 }
 ```
+9.
+  ```
+ int waysOfSum30(int nums[], int len) {
+  int i, j, k, total = 0, a, b, c;
+  for (i = 0; i < len; i++) {
+      for (j = 0; j < len; j++) {
+          for (k = 0; k < len; k++) {
+              if (i != j && j != k && k != i) {
+                  a = nums[i];
+                  b = nums[j];
+                  c = nums[k];
+                  if (a+b+c == 30 && i < j && j < k) {
+                      total += 1;
+                  }
+              }
+          }
+      }
+  }
+  return total;
+}
+ ```
+
+
 
