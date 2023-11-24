@@ -56,6 +56,23 @@ bool myFun(int N) { return (N & (N-1)) == 0;}
   return total;
 }
  ```
+10. Fow n = 2^31-1, the provided code will give an incorrect answer.
+12.
+```
+string position(int n) {
+    int a = 0, b = 1, c = 3, d = 6;
+    int total = 1+2+3+4;
+    n = n%total;
+    if (n == a) return "a";
+    else if (n == b) return "b";
+    else if (n == c) return "c";
+    else if (n == d) return "d";
+    else if (n > a && n < b) return "ab";
+    else if (n > b && n < c) return "bc";
+    else if (n > c && n < d) return "cd";
+    else return "ad";
+}
+```
 
 
 
