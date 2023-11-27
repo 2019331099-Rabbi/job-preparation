@@ -6,6 +6,7 @@ Preparation for Job
 
 # Interview/Job Preparation
 * [Preparation for Job and Central Viva (Jakir Hasan)](https://docs.google.com/spreadsheets/d/1n-S_y2OEsqrvyHyqMsFcCCJ9Fnyd107eaGHFZt-fOjs/edit#gid=0)
+* [JOB Prep SUST_CSE -2017 batch](https://docs.google.com/document/d/1CGRrJt_QBdNLRG87tGvoDe4AKrJwIfFJXHP8N1qBRAk/edit?fbclid=IwAR2CQ4WQj3SEevm35T4SjT4cAcSMKJ51QjWoUMC7b1ZItCwD-_DiL9C88HU)
 * [Neetcode practice - blind 75](https://neetcode.io/practice)
 * [Interview preparation - batch 18 - notion](https://docs.google.com/document/u/1/d/1ARUEoGPIde710iRP9SZx3dutPHy6u1VftuR-R615hhM/mobilebasic?fbclid=IwAR0U2Pr6fGrBNHTmM5LJ8jdLWmiv1ozslIUZNaQpfF1vR1Ud452XgUFT9DY)
 * [job 2018 - notions](https://erratic-geography-a96.notion.site/f616732c3629411d86186dab7cc092f2?v=855a31245bca488a83a5915b8fc6c454)
