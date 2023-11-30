@@ -28,3 +28,6 @@ Preparation for Job
 
 # My Collections
 * [Hackerrank prepare - DS](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=trees)
+
+# Database
+* [Sql - hackerrank](https://www.hackerrank.com/domains/sql)
