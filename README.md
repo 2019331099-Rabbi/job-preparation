@@ -31,6 +31,7 @@ Preparation for Job
 * [Hackerrank prepare - DS](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=trees)
 * [hackerrank interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [Important Topics and Questions for BD Software Engineering Job Interviews](https://shahriar76.medium.com/important-topics-and-questions-for-bd-software-engineering-job-interviews-46e9338b21a)
+* [job preparation - Nahid Hasan - github](https://github.com/Nahid-Hassan/job-prep)
 
 # Database
 * [Sql - hackerrank](https://www.hackerrank.com/domains/sql)
