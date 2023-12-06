@@ -35,3 +35,6 @@ Preparation for Job
 
 # Database
 * [Sql - hackerrank](https://www.hackerrank.com/domains/sql)
+
+# Java
+* [Top 100+ Core Java Interview Questions - Pankaj kumar](https://www.digitalocean.com/community/tutorials/core-java-interview-questions-and-answers#core-java-interview-questions-and-answers)
