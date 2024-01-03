@@ -32,6 +32,7 @@ Preparation for Job
 * [hackerrank interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [Important Topics and Questions for BD Software Engineering Job Interviews](https://shahriar76.medium.com/important-topics-and-questions-for-bd-software-engineering-job-interviews-46e9338b21a)
 * [job preparation - Nahid Hasan - github](https://github.com/Nahid-Hassan/job-prep)
+* [samsung problems - hackerrank](https://www.hackerrank.com/contests/target-samsung-13-nov19/challenges/filters/page:1)
 
 # Database
 * [Sql - hackerrank](https://www.hackerrank.com/domains/sql)
