@@ -19,6 +19,7 @@ Preparation for Job
 
 # Resources from Seniors
 * [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed?fbclid=IwAR3ZG04TBnKufWA9g6PMpLOPV4tKLz2_w5KUguQXqgkyFv5mhaJYkI9fp6E)
+* [14 pattern - problems on leetcode](https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns)
 * [Coding interview study plan - what to study and practice based on time left](https://www.techinterviewhandbook.org/coding-interview-study-plan/?fbclid=IwAR2Yb41g7lve9Pbatw7J8litcswIsX8UlAGPBUyWc6uTeciY4IacrHdsl7o)
 * [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions?fbclid=IwAR0EZrIDvMDi5wDw5cRgHJFoMJCYGXqajeGwdiw995WWlM37uWmmQGbOxtU)
 * [2016 - Job Resources](https://drive.google.com/drive/folders/1rns_N7bfWskJ3tDwsKYkOZjy8mZpv7S2?fbclid=IwAR28xcFmzw0_fbyU0xDZfTGsFlPmNutm0Xvd0szypnoI35BvS9bm3IVv-g4)
