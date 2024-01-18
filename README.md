@@ -45,3 +45,5 @@ Preparation for Job
 
 # Java
 * [Top 100+ Core Java Interview Questions - Pankaj kumar](https://www.digitalocean.com/community/tutorials/core-java-interview-questions-and-answers#core-java-interview-questions-and-answers)
+* [java tutorial](https://runestone.academy/ns/books/published/apcsareview/OOBasics/objectObasics.html)
+* [java w3 school](https://www.w3schools.com/java/java_oop.asp)
