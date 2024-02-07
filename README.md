@@ -16,6 +16,7 @@ Preparation for Job
 
 # All Company List
 * [BD software companies](https://github.com/MBSTUPC/tech-companies-in-bangladesh)
+* [BD companies - salary range](https://tahanima.github.io/2024/02/02/salary-ranges-offered-by-bangladeshi-software-companies-for-different-positions/)
 
 # Resources from Seniors
 * [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed?fbclid=IwAR3ZG04TBnKufWA9g6PMpLOPV4tKLz2_w5KUguQXqgkyFv5mhaJYkI9fp6E)
