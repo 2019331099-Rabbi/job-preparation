@@ -39,8 +39,8 @@ Preparation for Job
 * [coding pattern - youtube](https://www.youtube.com/@isarwarfp/playlists)
 
 # Database
+* [MySQL - W3School](https://www.w3schools.com/mysql/default.asp)
 * [Sql - hackerrank](https://www.hackerrank.com/domains/sql)
-* [SQL - W3School](https://www.w3schools.com/sql/default.asp)
 * [top 52 database interview questions - javapoint](https://www.javatpoint.com/dbms-interview-questions)
 * [database tutorial - javapoint](https://javatpoint.com/dbms-tutorial)
 * [db tutorial - geeksforgeeks](https://www.geeksforgeeks.org/dbms/)
