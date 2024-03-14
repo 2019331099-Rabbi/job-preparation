@@ -47,7 +47,7 @@ Preparation for Job
 * [Sanchit Sir full course (YouTube)](https://www.youtube.com/watch?v=YRnjGeQbsHQ&t=16675s&ab_channel=KnowledgeGATEbySanchitSir)
 
 # Java
-* [Java - official tutorial](https://docs.oracle.com/javase/tutorial/java/index.html)
+* [Java - official tutorial by Oracle]([https://docs.oracle.com/javase/tutorial/java/index.html](https://docs.oracle.com/javase/tutorial/))
 * [Java - API (documentation)](https://docs.oracle.com/javase/8/docs/api/index.html)
 * [Top 100+ Core Java Interview Questions - Pankaj kumar](https://www.digitalocean.com/community/tutorials/core-java-interview-questions-and-answers#core-java-interview-questions-and-answers)
 * [java tutorial](https://runestone.academy/ns/books/published/apcsareview/OOBasics/objectObasics.html)
