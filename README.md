@@ -30,6 +30,7 @@ Preparation for Job
 * [Job preparation (On campus) - Notion](https://creative-blizzard-958.notion.site/Job-preparation-On-campus-c50d02ecaace42658a4a4a6d25b8a733)
 
 # My Collections
+* [Sanchit Sir - Full courses](https://www.youtube.com/watch?v=YRnjGeQbsHQ&list=PLmXKhU9FNesSSGSDo9RAS3cGTksoy4WzD&ab_channel=KnowledgeGATEbySanchitSir)
 * [Hackerrank prepare - DS](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=trees)
 * [hackerrank interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [Important Topics and Questions for BD Software Engineering Job Interviews](https://shahriar76.medium.com/important-topics-and-questions-for-bd-software-engineering-job-interviews-46e9338b21a)
