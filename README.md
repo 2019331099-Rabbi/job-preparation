@@ -12,6 +12,7 @@ Preparation for Job
 * [Job 2017 ](https://drive.google.com/drive/folders/13aUE1xdHq-ywGfAGhaDTUTjqvWYute7G?fbclid=IwAR14w6cBoRve-i_wTmlHrasvzSHy5WWowFJMyeYX46isoxwDynnUBBU4gNs)
 * [Cracking the coding interview - leetcode discussion](https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode)
 * [solutions from authors](https://github.com/careercup/CtCI-6th-Edition)
+* [JOB Prep doc](https://docs.google.com/document/d/1CGRrJt_QBdNLRG87tGvoDe4AKrJwIfFJXHP8N1qBRAk/edit?fbclid=IwAR2CQ4WQj3SEevm35T4SjT4cAcSMKJ51QjWoUMC7b1ZItCwD-_DiL9C88HU)
 
 # All Company List
 * [BD software companies](https://github.com/MBSTUPC/tech-companies-in-bangladesh)
